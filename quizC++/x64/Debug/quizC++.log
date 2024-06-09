@@ -1,0 +1,397 @@
+﻿  main.cpp
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(79,45): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(91,50): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(103,47): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(103,47): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(103,47): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(103,47): warning C4244:             T=unsigned int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(103,47): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(122,49): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(122,49): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(122,49): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(122,49): warning C4244:             T=unsigned int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(122,49): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(131,76): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(131,76): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(131,76): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(131,76): warning C4244:             T=unsigned int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(131,76): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(131,50): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(131,50): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(131,50): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(131,50): warning C4244:             T=unsigned int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(131,50): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(150,60): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(173,52): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(173,52): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(173,52): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(173,52): warning C4244:             T=unsigned int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(173,52): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(193,44): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(202,52): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(202,52): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(202,52): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(202,52): warning C4244:             T=unsigned int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(202,52): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(211,78): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(211,78): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(211,78): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(211,78): warning C4244:             T=unsigned int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(211,78): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(211,53): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(211,53): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(211,53): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(211,53): warning C4244:             T=unsigned int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(211,53): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(227,50): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(227,50): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(227,50): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(227,50): warning C4244:             T=unsigned int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(227,50): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(242,53): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(242,53): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(242,53): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(242,53): warning C4244:             T=unsigned int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(242,53): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(262,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(271,51): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(271,51): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(271,51): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(271,51): warning C4244:             T=unsigned int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(271,51): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(288,53): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(288,53): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(288,53): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(288,53): warning C4244:             T=unsigned int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(288,53): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(314,60): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(323,50): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(323,50): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(323,50): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(323,50): warning C4244:             T=unsigned int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(323,50): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,89): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,89): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,89): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,89): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,89): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,89): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,89): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,89): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,89): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,77): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,77): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,77): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,77): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,77): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,77): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,77): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,77): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(347,77): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,84): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,84): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,84): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,84): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,84): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,84): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,84): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,84): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,84): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,72): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,72): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,72): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,72): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,72): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,72): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,72): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,72): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(417,72): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,89): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,89): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,89): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,89): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,89): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,89): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,89): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,89): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,89): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,77): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,77): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,77): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,77): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,77): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,77): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,77): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,77): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(422,77): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,89): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,89): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,89): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,89): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,89): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,89): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,89): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,89): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,89): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,77): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,77): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,77): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,77): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,77): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,77): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,77): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,77): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(427,77): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,89): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,89): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,89): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,89): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,89): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,89): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,89): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,89): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,89): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,77): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,77): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,77): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,77): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,77): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,77): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,77): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,77): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(435,77): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,94): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,94): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,94): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,94): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,94): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,94): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,94): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,94): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,94): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,82): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,82): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,82): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,82): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,82): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,82): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,82): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,82): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(439,82): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,94): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,94): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,94): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,94): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,94): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,94): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,94): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,94): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,94): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,82): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,82): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,82): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,82): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,82): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,82): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,82): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,82): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(443,82): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,85): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,85): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,85): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,85): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,85): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,85): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,85): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,85): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,85): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,73): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,73): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,73): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,73): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,73): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,73): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,73): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,73): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(451,73): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,86): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,86): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,86): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,86): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,86): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,86): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,86): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,86): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,86): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,74): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,74): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,74): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,74): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,74): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,74): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,74): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,74): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(459,74): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,103): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,103): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,103): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,103): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,103): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,103): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,103): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,103): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,103): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,91): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,91): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,91): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,91): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,91): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,91): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,91): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,91): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(469,91): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,86): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,86): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,86): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,86): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,86): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,86): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,86): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,86): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,86): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,74): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,74): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,74): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,74): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,74): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,74): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,74): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,74): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(485,74): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,87): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,87): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,87): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,87): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,87): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,87): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,87): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,87): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,87): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,75): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,75): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,75): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,75): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,75): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,75): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,75): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,75): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(495,75): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,85): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,85): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,85): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,85): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,85): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,85): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,85): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,85): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,85): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,73): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,73): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,73): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,73): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,73): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,73): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,73): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,73): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(511,73): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,86): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,86): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,86): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,86): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,86): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,86): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,86): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,86): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,86): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,74): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,74): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,74): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,74): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,74): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,74): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,74): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,74): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(518,74): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,85): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,85): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,85): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,85): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,85): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,85): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,85): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,85): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,85): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,73): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,73): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,73): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,73): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,73): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,73): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,73): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,73): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(544,73): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,86): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,86): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,86): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,86): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,86): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,86): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,86): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,86): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,86): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,74): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,74): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,74): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,74): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,74): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,74): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,74): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,74): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(551,74): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,106): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,106): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,106): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,106): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,106): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,106): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,106): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,106): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,106): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,94): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,94): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,94): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,94): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,94): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,94): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,94): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,94): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(560,94): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,85): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,85): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,85): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,85): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,85): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,85): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,85): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,85): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,85): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,73): warning C4244: 'argumento': conversão de 'T' para 'T', possível perda de dados
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,73): warning C4244:         with
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,73): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,73): warning C4244:             T=int
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,73): warning C4244:         ]
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,73): warning C4244:         and
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,73): warning C4244:         [
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,73): warning C4244:             T=float
+C:\Users\ality\source\repos\quizC++\quizC++\main.cpp(578,73): warning C4244:         ]
+  quizC++.vcxproj -> C:\Users\ality\source\repos\quizC++\x64\Debug\quizC++.exe
